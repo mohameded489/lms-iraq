@@ -1,0 +1,1 @@
+// محتوى تجريبي للملف components/CoursePage.jsx
